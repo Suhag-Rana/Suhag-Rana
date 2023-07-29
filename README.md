@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suhag-Rana
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Datastructure, Algorithm and Web Development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Phone: 01930834700 Mail: suhagrana.q@gmail.com facebook: https://www.facebook.com/suhag.mahmud.1/
 
